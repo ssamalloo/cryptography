@@ -11,7 +11,7 @@ When a document is being added to the toCrypt folder, a service will automatical
 The git repository can either be cloned or the zip file can be downloaded and extracted in "/home/client".
 
 
-### Installing
+### Installation
 
 You need to execute the file install.sh into your terminal and the job is done using the code : ./install.sh
 
@@ -23,9 +23,9 @@ Note: My code run through the path "/home/client/.."- please make sure that your
 
 ## Built With
 
-* [Bash Script]
+[Bash Script]
 
-## Authors
+## Author
 
-* **Samalloo Swathi** - *Initial work* - (https://github.com/ssamalloo/cryptography.git)
+Samalloo Swathi
 
